@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-Hello Java
+Hello Java 2
 </title>
 </head>
 <body>
